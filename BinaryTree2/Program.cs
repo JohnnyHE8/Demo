@@ -15,11 +15,13 @@ namespace BinaryTree2
             b.Insert(7);
             b.Insert(1);
             b.Insert(12);
+//test
             b.Insert(32);
             b.Insert(15);
             b.Insert(22);
             b.Insert(2);
             b.Insert(6);
+
             b.Insert(24);
             b.Insert(17);
             b.Insert(14);
